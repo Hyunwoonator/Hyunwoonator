@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Hyunwoonator also ```Bill Nye The IT Guy#1234``` on discord.
 ## I'm the Co-Owner of the _Imperium Proxy_ discord server where we have our own proxy website and have a link dispensor bot.
+https://github.com/Hyunwoonator/Hyunwoonator/blob/14762c01e7582beb79d4c0675e04f0d800635df7/Screen%20Shot%202022-06-11%20at%207.18.23%20PM.png
 ### Join the server here: https://discord.gg/jcAWkwwSSX
 
 <!--

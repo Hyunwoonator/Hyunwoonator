@@ -3,6 +3,8 @@
 ### Join the server here: https://discord.gg/jcAWkwwSSX
 - 🌱 I’m currently learning ```Creating discord bots with Node.JS```
 - 🔭 I’m currently working on ```Things Proxy```
+
+### Have a great rest of your day!! 💤🌞
 <!--
 **Hyunwoonator/Hyunwoonator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

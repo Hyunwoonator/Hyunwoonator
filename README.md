@@ -2,7 +2,7 @@
 ## I'm the Co-Owner of the _Imperium Proxy_ discord server where we have our own proxy website and have a link dispensor bot
 ### Join the server here: https://discord.gg/jcAWkwwSSX
 - 🌱 I’m currently learning ```Creating discord bots with Node.JS```
-- 🔭 I’m currently working on ```Things Proxy```
+- 🔭 I’m currently working on ```Emerald Proxy```
 
 ### Have a great rest of your day!! 💤🌞
 <!--

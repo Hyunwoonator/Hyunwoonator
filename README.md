@@ -1,4 +1,4 @@
-### Hi 👋 I'm Hyunwoonator also ```Bill Nye The IT Guy#1234``` on discord.
+### Hi 👋 I'm Hyunwoonator
 ### Join the server here: ~~https://discord.gg/jcAWkwwSSX~~
 ~~- 🌱 I’m currently learning ```Creating discord bots with Node.JS```~~
 
